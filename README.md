@@ -1,8 +1,14 @@
-<h1>𝐇𝐞𝐥𝐥𝐨, Goal Diggers!</h1>
+<h1>Hi there! 👋</h1>
 
-I am `Arun Ghimire`, born and raised in `Nepal`. I enjoy being a lifetime learner. I love creating something out of nothing by mixing up my knowledge, skills and imagination. I am a thorough person with an eye for details. I dislike sloppiness in real life and bring the same rules to my professional walk-through.
+I'm Bishal Mahat Chhetri, a passionate developer and lifelong learner from Nepal. I thrive on creating innovative solutions by blending knowledge, skills, and imagination. With a meticulous eye for detail, I approach both life and work with a commitment to precision and excellence.
 
+My interests span:
 
+Artificial Intelligence and Data Science 🌟
+Mathematical Modeling and Problem Solving ✏️
+Web Development and APIs 🌐
+Computer Vision and Innovative Technologies 🖼️
+I believe in turning ideas into reality, pushing boundaries, and collaborating with like-minded individuals to build meaningful projects. Let’s connect and create something amazing together!
 ## ⚙️ &nbsp;GitHub Analytics
 
 <br/>
