@@ -1,49 +1,111 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1>Hi there! 👋</h1>
 
-###
+I'm Bishal Mahat Chhetri, a passionate developer and lifelong learner from Nepal. I thrive on creating innovative solutions by blending knowledge, skills, and imagination. With a meticulous eye for detail, I approach both life and work with a commitment to precision and excellence.
+
+My interests span:
+
+Artificial Intelligence and Data Science 🌟
+Mathematical Modeling and Problem Solving ✏️
+Web Development and APIs 🌐
+Computer Vision and Innovative Technologies 🖼️
+I believe in turning ideas into reality, pushing boundaries, and collaborating with like-minded individuals to build meaningful projects. Let’s connect and create something amazing together!
+
+My interests span:
+
+Artificial Intelligence and Data Science 🌟
+Mathematical Modeling and Problem Solving ✏️
+Web Development and APIs 🌐
+Computer Vision and Innovative Technologies 🖼️
+I believe in turning ideas into reality, pushing boundaries, and collaborating with like-minded individuals to build meaningful projects. Let’s connect and create something amazing together!
+
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arunism&color=blue"> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/arunism?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/arunism?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+</p>
+
+
+<!-- ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=arunism&column=8&margin-w=50&margin-h=50&no-bg=true&no-frame=true&theme=juicyfresh) -->
+
+<br/>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunism&theme=dark&hide_border=true"/>
+</p>
+
+
+<!-- <details open="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+<br>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arunism&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunism&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+</details>
+<br> -->
+
+
+<!-- 
+## 📈 &nbsp;Contribution Graph
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=arunism&theme=react-dark&hide_border=true&area=true)
+-->
+
+<!--
+## 🌞 &nbsp;Quote
+
+<h4 align="center">
+  
+```diff
+       o o                                              
+       | |                                              
+      _L_L_                                             
+   ❮\/__-__\/❯    Programming isn't about what you know 
+   ❮(|~o.o~|)❯     It's about what you can figure out   
+   ❮/ \`-'/ \❯                                          
+     _/`U'\_                                            
+    ( .   . )        .----------------------------.     
+   / /     \ \       | while( ! (succed=try() ) ) |     
+   \ |  ,  | /       '----------------------------'     
+    \|=====|/                                           
+     |_.^._|                                            
+     | |"| |                                            
+     ( ) ( )     Testing leads to failure and           
+     |_| |_|    failure leads to understanding          
+ _.-' _j L_ '-._                                        
+(___.'     '.___)                                       
+```
+
+</h4>
+-->
+  
+<!-- ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg) -->
+
+<br/>
+
+<!-- **I'm an Early 🐤** 
+
+```text
+🌞 Morning    151 commits    █████░░░░░░░░░░░░░░░░░░░░   23.48% 
+🌆 Daytime    261 commits    ██████████░░░░░░░░░░░░░░░   40.59% 
+🌃 Evening    110 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.11% 
+🌙 Night      121 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.82%
+
+``` -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+ 
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+#
