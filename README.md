@@ -1,15 +1,20 @@
-<h1>Hi there! 👋</h1>
+<h1 align="center">Hi there! 👋</h1>
+<p align="center">
+  I'm <strong>Bishal Mahat Chhetri</strong>, a passionate developer and lifelong learner from Nepal. I thrive on creating innovative solutions by blending knowledge, skills, and imagination. With a meticulous eye for detail, I approach both life and work with a commitment to precision and excellence.
+</p>
 
-I'm Bishal Mahat Chhetri, a passionate developer and lifelong learner from Nepal. I thrive on creating innovative solutions by blending knowledge, skills, and imagination. With a meticulous eye for detail, I approach both life and work with a commitment to precision and excellence.
+<h2>Interests 🌟</h2>
+<ul>
+  <li><strong>Artificial Intelligence and Data Science</strong></li>
+  <li><strong>Mathematical Modeling and Problem Solving</strong></li>
+  <li><strong>Web Development and APIs</strong></li>
+  <li><strong>Computer Vision and Innovative Technologies</strong></li>
+</ul>
 
-My interests span:
-
-Artificial Intelligence and Data Science 🌟
-Mathematical Modeling and Problem Solving ✏️
-Web Development and APIs 🌐
-Computer Vision and Innovative Technologies 🖼️
-I believe in turning ideas into reality, pushing boundaries, and collaborating with like-minded individuals to build meaningful projects. Let’s connect and create something amazing together!
-## ⚙️ &nbsp;GitHub Analytics
+<p>
+  I believe in turning ideas into reality, pushing boundaries, and collaborating with like-minded individuals to build meaningful projects.
+  Let’s connect and create something amazing together!
+</p>
 
 <br/>
 
