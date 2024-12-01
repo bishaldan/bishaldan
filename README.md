@@ -1,22 +1,6 @@
-<h1>Hi there! 👋</h1>
+<h1>𝐇𝐞𝐥𝐥𝐨, Goal Diggers!</h1>
 
-I'm Bishal Mahat Chhetri, a passionate developer and lifelong learner from Nepal. I thrive on creating innovative solutions by blending knowledge, skills, and imagination. With a meticulous eye for detail, I approach both life and work with a commitment to precision and excellence.
-
-My interests span:
-
-Artificial Intelligence and Data Science 🌟
-Mathematical Modeling and Problem Solving ✏️
-Web Development and APIs 🌐
-Computer Vision and Innovative Technologies 🖼️
-I believe in turning ideas into reality, pushing boundaries, and collaborating with like-minded individuals to build meaningful projects. Let’s connect and create something amazing together!
-
-My interests span:
-
-Artificial Intelligence and Data Science 🌟
-Mathematical Modeling and Problem Solving ✏️
-Web Development and APIs 🌐
-Computer Vision and Innovative Technologies 🖼️
-I believe in turning ideas into reality, pushing boundaries, and collaborating with like-minded individuals to build meaningful projects. Let’s connect and create something amazing together!
+I am `Arun Ghimire`, born and raised in `Nepal`. I enjoy being a lifetime learner. I love creating something out of nothing by mixing up my knowledge, skills and imagination. I am a thorough person with an eye for details. I dislike sloppiness in real life and bring the same rules to my professional walk-through.
 
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -24,18 +8,18 @@ I believe in turning ideas into reality, pushing boundaries, and collaborating w
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arunism&color=blue"> •  
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/arunism?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/arunism?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+  <img src="https://komarev.com/ghpvc/?username=bishaldan&color=blue"> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/bishaldan?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/bishaldan?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
 
-<!-- ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=arunism&column=8&margin-w=50&margin-h=50&no-bg=true&no-frame=true&theme=juicyfresh) -->
+<!-- ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=bishaldan&column=8&margin-w=50&margin-h=50&no-bg=true&no-frame=true&theme=juicyfresh) -->
 
 <br/>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunism&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishaldan&theme=dark&hide_border=true"/>
 </p>
 
 
@@ -47,8 +31,8 @@ I believe in turning ideas into reality, pushing boundaries, and collaborating w
 <br>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arunism&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunism&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bishaldan&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishaldan&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 </details>
 <br> -->
@@ -57,7 +41,7 @@ I believe in turning ideas into reality, pushing boundaries, and collaborating w
 <!-- 
 ## 📈 &nbsp;Contribution Graph
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=arunism&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=bishaldan&theme=react-dark&hide_border=true&area=true)
 -->
 
 <!--
